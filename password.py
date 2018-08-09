@@ -13,3 +13,5 @@ import random
 for x in range(20):
 	print "%s%d%s" % (random.choice(words), random.randint(0,9), random.choice(words))
 
+print "jobs done"
+
